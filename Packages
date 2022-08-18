@@ -1,0 +1,42 @@
+Package: arducamconfigparser
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Arducam <support@arducam.com>
+Installed-Size: 32
+Depends: libc6 (>= 2.4)
+Filename: ./arducamconfigparser_0.0.1_amd64.deb
+Size: 6992
+MD5sum: d6816e46ff3d9da0007bdf01d8831648
+SHA1: e4520751d097c2c8aae56892712348b0dd72b178
+SHA256: 606063f94e7f42e9242eedcca8c46b1781715a1756f6542e503ec504b6f79458
+Section: utils
+Priority: extra
+
+Package: arducamisp
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Arducam <support@arducam.com>
+Installed-Size: 10433
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 9), zlib1g (>= 1:1.1.4)
+Filename: ./arducamisp_0.0.1_amd64.deb
+Size: 2520264
+MD5sum: f488375fe6404f11344be0cca1cc8237
+SHA1: 203216496ff3e629a002d4e4c3f51fe59d9ef9a2
+SHA256: 546a4451fe580b0097716d4b7ba157852f88f965e8e9b1a7a0d88eaa97e01433
+Section: utils
+Priority: extra
+
+Package: arducamlib
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Arducam <support@arducam.com>
+Installed-Size: 649
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 4.8.1), libusb-1.0-0 (>= 2:1.0.9)
+Filename: ./arducamlib_0.0.1_amd64.deb
+Size: 121480
+MD5sum: bb77bd3c505392e395f16141e662affa
+SHA1: 7f0d7a6e8b30e9aafd3c633cf393dc4cc0d226ad
+SHA256: 78b1d70fc4a9e07a768d1371133282688c7bea9f01fead6a21bdd36af94a57f8
+Section: utils
+Priority: extra
+
